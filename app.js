@@ -23,7 +23,7 @@ app
         `
             INSERT INTO users (
                 username, 
-                passwor,
+                password,
                 date_added ) VALUES (
                     @username,
                     @password,
